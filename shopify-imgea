@@ -1,0 +1,1 @@
+<img src="{{ section.settings.brand-imge | img_url: 'medium' }}" alt="{{ section.settings.brand-imge.alt | escape }}" >
